@@ -72,6 +72,7 @@ For completely FAIR code, it is also important that:
  - The code and documentation follow domain-relevant community standards. You may consider [standards from your scientific domain](https://aeadataeditor.github.io/aea-de-guidance/preparing-for-data-deposit.html#ideal-structure-of-a-replication-package) as well as standards for [default project structures](https://github.com/cookiecutter/cookiecutter).
 
 Your project may already adhere to that, and if so, great! If not, you may either go back and revise it, or simply keep it in mind for the next project you do. 
+If you're interested in taking it even further, the [Turing Way](https://book.the-turing-way.org) is a great digital resource for all things reproducible, ethical, and collaborative (data) science.
 
 ### Disclaimer
 This is not meant for software packages, libraries, or workflows, where stricter standards should be employed!
