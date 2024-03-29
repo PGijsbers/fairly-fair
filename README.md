@@ -76,9 +76,10 @@ If you're interested in taking it even further, the [Turing Way](https://book.th
 
 ### Disclaimer
 This is not meant for software packages, libraries, or workflows, where stricter standards should be employed!
-
-This is only one of many ways to make your code FAIR. We chose this workflow for its simplicity
+This is only one of many ways to make your code FAIR. We chose this workflow for its simplicity.
 
 ### Attribution
 This document is inspired by the [FAIR Cheatsheets](https://github.com/UtrechtUniversity/FAIR-Cheatsheets) of Utrecht University.
+
+This document was written during the [2024 Open Science Retreat](https://openscienceretreat.eu) by Niklas Hohmann, Ana Martinovici, Christian Meesters, Benedikt Langenberg, Kjong Lehmann, and Pieter Gijsbers (in no particular order).
 
