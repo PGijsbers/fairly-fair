@@ -81,5 +81,5 @@ This is only one of many ways to make your code FAIR. We chose this workflow for
 ### Attribution
 This document is inspired by the [FAIR Cheatsheets](https://github.com/UtrechtUniversity/FAIR-Cheatsheets) of Utrecht University.
 
-This document was written during the [2024 Open Science Retreat](https://openscienceretreat.eu) by Niklas Hohmann, Ana Martinovici, Christian Meesters, Benedikt Langenberg, Kjong Lehmann, and Pieter Gijsbers (in no particular order).
+This document was written during the [2024 Open Science Retreat](https://openscienceretreat.eu) by Niklas Hohmann, Ana Martinovici, Christian Meesters, Benedikt Langenberg, Kjong Lehmann, and Pieter Gijsbers (in no particular order). We also thank other attendees of the event for their thoughtful input and suggestions.
 
