@@ -10,8 +10,9 @@ You'll only need to do this once! Using a platform where you can host your code 
 
 ## 2. [Choose a license](https://choosealicense.com)
 
-The intent is to share your code with everyone to allow them, so don't overthink it! You can also find more in-depth information in the [Turing Way](https://book.the-turing-way.org/reproducible-research/licensing#where-to-find-open-licenses-for-different-types-of-work) book.
-
+The intent is to share your code with everyone to allow them, so don't overthink it!
+[Choose A License](https://choosealicense.com) is a helpful resource that provides an overview of various suitable licenses.
+You can also find more in-depth information in the [Turing Way](https://book.the-turing-way.org/reproducible-research/licensing#where-to-find-open-licenses-for-different-types-of-work) book.
 
 ## 2. Create a [code repository on Github](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories#create-a-repository) and [upload your code](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository) 
 
